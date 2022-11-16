@@ -1,0 +1,15 @@
+/*
+1- Posicionamiento
+2- Modelo de caja (Box-model)
+3- Tipografia
+4- Temas visuales
+5- Miscelaneos / Otros
+*/
+
+:root {
+    /* Colores*/
+    --bitcoin-orange: #f7931a;
+    --soft-orange:#ffe9d5;
+    --secondary-blue: #1A9AF7;
+    
+}
